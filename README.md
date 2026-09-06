@@ -97,7 +97,7 @@ Actual pass/fail results depend on running the tests locally in NetBeans — see
 accompanying PDF report for screenshots of the executed test runs.
 
 ## Author
-[Student Name] – [Registration Number]
+[Muhammad Umar Basit] – [24ABSWE0003]
 
 ## Course
 Software Construction and Development, 5th Semester Software Engineering,
