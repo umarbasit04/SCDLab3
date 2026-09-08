@@ -73,12 +73,12 @@ LabTask03-JUnitTesting/
 ## How to Run the Code
 - **In NetBeans:** open the project (File > Open Project, select the folder containing
   `pom.xml`), then right-click the project → **Run**.
-- **From the command line:** `mvn compile` (requires Maven installed and on PATH).
+- **From the command line:** ```bash mvn compile ``` (requires Maven installed and on PATH).
 
 ## How to Run the Tests
 - **In NetBeans:** right-click the project → **Test**, or right-click an individual
   test class → **Test File**.
-- **From the command line:** `mvn test`
+- **From the command line:** ```bash mvn test ```
 
 ## How to Generate the Code Coverage Report (Homework 1)
 - **From the command line:** `mvn test` (JaCoCo is bound to the `test` phase in
